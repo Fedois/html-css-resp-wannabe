@@ -144,3 +144,16 @@ img {
         margin-bottom: 80px;
     }
 }
+@media screen and (max-width: 768px){
+    .container{
+        width: 100%;
+    }
+}
+
+
+/* BONUS */
+@media screen and (min-width: 769px){
+    .container{
+        width: 80vw;
+    }
+}
